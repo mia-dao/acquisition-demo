@@ -1,7 +1,7 @@
 {
-  "name": "gov-acquisition-app",
+  "name": "acquisition-app",
   "version": "1.0.0",
-  "description": "Government Acquisition Management System",
+  "description": "Acquisition Management System",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
